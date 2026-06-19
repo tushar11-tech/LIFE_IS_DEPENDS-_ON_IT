@@ -18,8 +18,9 @@ To make the data ready for analysis, I structured a clean relational schema insi
 
 ### 🛠️ Interactive Feature
 Added an Employee ID filter leveraging the established relationships so managers can instantly drill down into individual sales team performance.
-
-
+.
+.
+.
 
 {HERE IS THE IMAGE}
 <img width="1917" height="1018" alt="SALES PERFORMANCE DASHBOARD" src="https://github.com/user-attachments/assets/c20d7bb6-548c-48ac-ae73-b19ba9c70d03" />
